@@ -1,6 +1,8 @@
 # WEB102 Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+6games-container.stats-card15
+
+Submitted by: **Nicholas Rios**
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
