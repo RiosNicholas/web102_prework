@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/JleXe32' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/Screen_Recording_2023-08-12_at_8_53_29_PM_AdobeExpress.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 A challenge that I experienced was with saving my progress in the prework assignment page. 
