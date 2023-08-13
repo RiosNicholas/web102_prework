@@ -11,6 +11,7 @@ body {
 
 .header {
     display: flex;
+    justify-content: center;
     background-color: lightblue;
     padding: 1%;
     align-items: center;
@@ -74,4 +75,9 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.container-title {
+    font-size: xx-large;
+    text-decoration: underline;
 }
