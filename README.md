@@ -1,6 +1,10 @@
 # WEB102 Prework - *Name of App Here*
 
+11seafoamGAMES_JSON
 6games-container.stats-card15
+74FLANNELCLICK
+tolocalestring<div>1ivy
+zoohowcedar
 
 Submitted by: **Nicholas Rios**
 
